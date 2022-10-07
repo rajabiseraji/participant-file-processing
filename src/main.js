@@ -2,8 +2,19 @@ import pkg from 'json-2-csv';
 const { json2csv } = pkg;
 import { processLineByLine, readDir, writeFile} from './utils/toolbox.js'
 
-function createObject(){
-    return {time:0, id:0, action:'', operation:''}
+function createObject(newObject){
+    return {
+        time: newObject.time ?? 0, 
+        id: newObject.id ?? 0, 
+        action: newObject.action ?? 'null', 
+        operation: newObject.operation ?? 'null', 
+        attributeId: newObject.attributeId ??  0, 
+        attributeName: newObject.attributeName ??  'null', 
+        collectionId: newObject.collectionId ??  0, 
+        collectionName: newObject.collectionName ??  'null',
+        contextId: newObject.contextId ??  0, 
+        contextName: newObject.contextName ??  'null'
+    }
 }
 
 async function* getlines(files) {
@@ -21,13 +32,20 @@ function processFile(data) {
     const finalResult = []
     data.forEach((line, index) => {
         if (index > 0) {
-            const newObject = createObject();
             const lineData = line.split('	');
-            newObject.time = lineData[0];
             const userData = JSON.parse(lineData[1]);
-            newObject.id = userData.id;
-            newObject.action = userData?.text?.action;
-            newObject.operation = userData?.text?.values?.operation;
+            const newObject = createObject({
+                tiem: lineData[0],
+                id : userData.id,
+                action : userData?.text?.action,
+                operation : userData?.text?.values?.operation,
+                attributeId : userData?.text?.values?.attribute?.id,
+                attributeName : userData?.text?.values?.attribute?.name,
+                collectionId : userData?.text?.values?.collection?.id,
+                collectionName : userData?.text?.values?.collection?.name,
+                contextId : userData?.text?.values?.context?.id,
+                contextName : userData?.text?.values?.context?.name
+            });
             finalResult.push(newObject);
         }
     })
