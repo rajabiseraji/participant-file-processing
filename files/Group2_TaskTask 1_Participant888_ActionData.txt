@@ -1,0 +1,2093 @@
+Timestamp	ActionName	ActionSourceObj	ActionSourceObjName	ActionSourceObjID	ActionTargetObj	ActionTargetObjName	ActionTargetObjID
+30.903	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-9555084			
+30.903	VisEntered	UnityEngine.GameObject	axis Renovation-Value visualisation	-9560970			
+31.091	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-9555084			
+31.091	VisExited	UnityEngine.GameObject	axis Renovation-Value visualisation	-9560970			
+32.159	AxisEntered	UnityEngine.GameObject	axis Latitude	-9552280			
+32.159	AxisExited	UnityEngine.GameObject	axis Latitude	-9552280			
+32.160	AxisEntered	UnityEngine.GameObject	axis Latitude	-9552280			
+32.160	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9557834			
+32.247	AxisExited	UnityEngine.GameObject	axis Latitude	-9552280			
+32.247	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9557834			
+32.247	AxisEntered	UnityEngine.GameObject	axis Latitude	-9552280			
+32.271	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+32.272	AxisCloningInitiated	UnityEngine.GameObject	axis Latitude	-9552280			
+32.292	AxisExited	UnityEngine.GameObject	axis Latitude	-9552280			
+32.496	AxisCloned	UnityEngine.GameObject	axis Latitude	-9563306			
+32.658	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+33.080	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+33.080	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9563628			
+33.125	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+33.125	AxisGrab	UnityEngine.GameObject	axis Latitude	-9563306			
+33.125	AxisRelease	UnityEngine.GameObject	axis Latitude	-9563306			
+33.136	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+33.136	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9563628			
+33.136	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+33.507	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+33.510	AxisReleasedInVis	UnityEngine.GameObject	axis Latitude	-9563306			
+33.618	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+34.424	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+34.495	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+34.495	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-9553264			
+34.567	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+34.784	AxisCloned	UnityEngine.GameObject	axis Price	-9564112			
+34.792	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+34.804	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+34.891	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+35.225	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+35.236	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+35.236	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+35.236	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9564818			
+35.247	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+35.247	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+35.247	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+35.369	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+35.369	VisExited	UnityEngine.GameObject	axis Price visualisation	-9564818			
+35.369	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+36.050	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+36.054	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+36.203	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+36.361	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+36.361	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+36.361	VisEntered	UnityEngine.GameObject	axis Latitude axis Price visualisation	-9565286			
+36.480	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+36.481	VisGrabbed	UnityEngine.GameObject	axis Latitude axis Price visualisation	-9565286			
+36.482	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+36.482	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+36.482	AxisGrab	UnityEngine.GameObject	axis Latitude	-9563306			
+36.482	AxisRelease	UnityEngine.GameObject	axis Latitude	-9563306			
+36.936	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+36.937	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+36.938	AxisReleasedInVis	UnityEngine.GameObject	axis Latitude	-9563306			
+37.113	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+37.113	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+37.113	VisExited	UnityEngine.GameObject	axis Latitude axis Price visualisation	-9565286			
+46.169	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+46.183	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+46.183	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+46.183	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+46.183	VisEntered	UnityEngine.GameObject	axis Latitude axis Price visualisation	-9565286			
+46.258	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+46.258	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+46.258	VisExited	UnityEngine.GameObject	axis Latitude axis Price visualisation	-9565286			
+46.258	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+46.303	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+46.303	AxisGrab	UnityEngine.GameObject	axis Latitude	-9563306			
+46.304	AxisRelease	UnityEngine.GameObject	axis Latitude	-9563306			
+46.845	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+46.846	AxisReleasedInVis	UnityEngine.GameObject	axis Latitude	-9563306			
+46.902	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+46.902	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+46.902	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9565804			
+47.002	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+47.002	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9565804			
+47.692	AxisEntered	UnityEngine.GameObject	axis Longitude	-9552600			
+47.692	VisEntered	UnityEngine.GameObject	axis Longitude visualisation	-9558282			
+47.835	AxisExited	UnityEngine.GameObject	axis Longitude	-9552600			
+47.835	VisExited	UnityEngine.GameObject	axis Longitude visualisation	-9558282			
+47.835	AxisEntered	UnityEngine.GameObject	axis Longitude	-9552600			
+47.917	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+47.917	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-9552600			
+47.956	AxisExited	UnityEngine.GameObject	axis Longitude	-9552600			
+48.318	AxisCloned	UnityEngine.GameObject	axis Longitude	-9566736			
+48.325	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+48.338	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+48.424	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+48.786	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+48.786	VisEntered	UnityEngine.GameObject	axis Longitude visualisation	-9567058			
+48.874	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+48.874	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+48.874	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+49.065	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+49.065	VisExited	UnityEngine.GameObject	axis Longitude visualisation	-9567058			
+49.065	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+50.180	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+50.181	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+50.312	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+50.426	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price visualisation	-9566252	UnityEngine.GameObject	FilterBubbleButton	-9566556
+50.615	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+50.691	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+50.691	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+50.692	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+51.057	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price visualisation	-9566252	UnityEngine.GameObject	FilterBubbleButton	-9566556
+51.556	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+51.557	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+51.657	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+51.868	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+51.868	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+51.868	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+51.951	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+51.952	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+52.091	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+52.091	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+52.091	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+52.091	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+52.142	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+52.299	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+52.456	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+52.456	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+52.456	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+52.604	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+52.605	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+52.605	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+52.605	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+52.605	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+52.606	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+53.736	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+53.737	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+53.738	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+53.838	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+53.838	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+53.838	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+54.004	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+54.772	AxisEntered	UnityEngine.GameObject	axis Latitude	-9563306			
+54.772	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9565804			
+54.881	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+54.881	AxisGrab	UnityEngine.GameObject	axis Latitude	-9563306			
+54.881	AxisRelease	UnityEngine.GameObject	axis Latitude	-9563306			
+56.180	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+56.181	AxisReleasedInVis	UnityEngine.GameObject	axis Latitude	-9563306			
+56.278	AxisExited	UnityEngine.GameObject	axis Latitude	-9563306			
+56.278	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9565804			
+56.446	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+56.697	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+57.057	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+57.194	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+57.699	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+57.893	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+58.203	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.273	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+58.409	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+58.430	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.444	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.462	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.481	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.494	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.510	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.527	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.543	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.559	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.574	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.590	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.606	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.622	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.641	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.656	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.673	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.688	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.703	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.719	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.734	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.750	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.766	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.784	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.788	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.800	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.815	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.831	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.846	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.862	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.877	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.893	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.910	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.926	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.941	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.958	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.973	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+58.990	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.006	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.021	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.036	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.058	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.077	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.096	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.118	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.139	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.155	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.173	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.189	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.209	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.235	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.257	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.275	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.291	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.308	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.324	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.344	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.366	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.384	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.404	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.419	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.435	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.451	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.466	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.482	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.498	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.514	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.532	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.548	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.563	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.578	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.595	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.611	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.626	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.641	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.656	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.676	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.691	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.706	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.722	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.738	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.753	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.768	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.784	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.804	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.819	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.834	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.849	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.865	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.881	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.896	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.911	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+59.923	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+59.930	VisLocalFiltered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+60.188	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+60.427	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+60.928	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+61.440	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+61.949	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+62.450	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+62.952	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+63.461	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+63.972	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+64.486	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+64.995	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+65.495	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+66.006	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+66.513	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+67.019	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+67.527	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+68.027	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+68.538	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+69.040	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+69.549	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+70.058	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+70.166	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+70.166	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+70.166	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+70.467	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+70.468	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+70.468	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+70.468	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+70.469	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+70.469	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+70.567	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+71.203	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+71.205	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+71.206	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+71.390	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+71.390	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+71.391	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+71.414	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+71.469	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+71.714	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+71.881	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+72.218	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+72.727	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+73.113	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+73.229	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+73.425	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+73.425	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+73.425	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+73.548	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+73.549	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+73.549	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+73.549	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+73.549	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+73.549	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+73.737	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+74.191	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+74.192	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+74.194	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+74.358	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+74.358	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+74.358	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+74.701	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+75.205	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+75.705	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+76.205	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+76.715	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+77.224	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+77.730	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+78.235	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+78.737	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+79.878	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+80.383	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+80.893	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+81.394	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+81.905	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+82.414	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+82.914	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+83.422	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+83.926	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+84.437	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+84.940	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+85.519	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+86.038	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+86.537	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+87.055	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+87.563	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+88.065	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+88.567	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+89.073	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+89.578	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+90.088	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+90.594	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+91.106	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+91.604	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+92.109	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+92.616	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+93.117	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+93.628	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+94.132	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+94.639	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+95.149	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+95.650	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+96.154	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+96.660	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+97.173	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+97.673	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+98.174	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+98.679	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+99.183	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+99.695	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+100.198	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+100.695	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+101.204	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+101.709	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+102.216	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+102.717	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+103.226	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+103.727	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+104.228	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+104.731	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+105.240	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+105.361	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+105.361	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+105.361	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+105.361	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+105.361	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+105.569	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+105.570	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+105.570	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+105.570	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+105.570	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+105.571	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+105.750	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+107.023	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+107.024	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+107.026	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+107.401	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+107.402	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+107.402	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+107.402	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+107.536	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+107.823	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+108.037	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+108.546	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+108.991	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+108.991	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+108.991	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+109.051	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+109.288	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+109.288	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+109.288	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+109.289	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+109.289	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+109.289	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+109.551	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+109.791	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+109.796	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+109.797	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+109.998	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+109.998	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+109.999	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+110.067	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+110.306	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+110.809	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+111.320	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+111.740	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754	UnityEngine.GameObject	FilterBubbleButton	-9568058
+111.827	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+112.328	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+112.834	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+113.213	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+113.284	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+113.284	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+113.284	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+113.284	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+113.339	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+113.848	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+113.945	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+113.946	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+113.946	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+113.946	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+114.353	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+114.394	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+114.394	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+114.395	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+114.854	FilterAdded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9567754			
+115.142	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9603728			
+115.146	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9604592			
+116.010	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9605476			
+116.011	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9605476			
+116.646	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+116.647	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+117.136	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+189.680	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+190.217	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+190.303	AxisEntered	UnityEngine.GameObject	axis Price	-9564112			
+190.303	AxisEntered	UnityEngine.GameObject	axis Longitude	-9566736			
+190.303	VisEntered	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476			
+190.559	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+190.559	VisGrabbed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476			
+190.559	AxisGrab	UnityEngine.GameObject	axis Price	-9564112			
+190.559	AxisRelease	UnityEngine.GameObject	axis Price	-9564112			
+190.559	AxisGrab	UnityEngine.GameObject	axis Longitude	-9566736			
+190.560	AxisRelease	UnityEngine.GameObject	axis Longitude	-9566736			
+191.401	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+191.403	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9564112			
+191.404	AxisReleasedInVis	UnityEngine.GameObject	axis Longitude	-9566736			
+191.500	AxisExited	UnityEngine.GameObject	axis Price	-9564112			
+191.500	AxisExited	UnityEngine.GameObject	axis Longitude	-9566736			
+191.500	VisExited	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476			
+194.427	AxisEntered	UnityEngine.GameObject	axis Land-Value	-9555596			
+194.427	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-9561418			
+195.596	AxisExited	UnityEngine.GameObject	axis Land-Value	-9555596			
+195.596	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-9561418			
+195.596	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+195.721	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+195.721	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+195.721	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9561866			
+196.113	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+196.113	AxisCloningInitiated	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+196.330	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+196.330	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9561866			
+196.802	AxisCloned	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+196.809	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+196.823	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+196.823	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+196.823	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9607174			
+196.855	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+196.855	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9607174			
+196.855	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+196.924	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+197.154	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+197.362	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+197.362	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9607174			
+197.530	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+197.530	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+197.530	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+199.934	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+199.935	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+200.144	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+200.144	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9607174			
+200.247	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+200.290	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+202.613	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+202.613	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9559178			
+202.947	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+202.947	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-9553264			
+203.101	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+203.101	VisExited	UnityEngine.GameObject	axis Price visualisation	-9559178			
+203.725	AxisCloned	UnityEngine.GameObject	axis Price	-9607658			
+203.733	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+203.838	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+204.075	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+204.225	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+204.286	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+204.286	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+204.286	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9608364			
+204.436	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+204.437	AxisGrab	UnityEngine.GameObject	axis Price	-9607658			
+204.437	AxisRelease	UnityEngine.GameObject	axis Price	-9607658			
+206.115	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+206.116	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9607658			
+206.589	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832	UnityEngine.GameObject	FilterBubbleButton	-9609136
+206.688	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+206.720	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+206.721	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+206.721	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+206.721	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832			
+206.966	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+206.967	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832			
+206.967	AxisGrab	UnityEngine.GameObject	axis Price	-9607658			
+206.967	AxisRelease	UnityEngine.GameObject	axis Price	-9607658			
+206.967	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+206.968	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+208.255	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+208.256	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9607658			
+208.258	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+209.177	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+209.234	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+209.252	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832	UnityEngine.GameObject	FilterBubbleButton	-9609136
+209.252	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+209.323	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+209.323	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+209.323	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832			
+209.475	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+209.495	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+209.495	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+209.495	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832			
+209.507	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832	UnityEngine.GameObject	FilterBubbleButton	-9609136
+210.224	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+210.224	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+210.224	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9608832			
+210.224	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+210.434	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+210.434	AxisGrab	UnityEngine.GameObject	axis Price	-9607658			
+210.434	AxisRelease	UnityEngine.GameObject	axis Price	-9607658			
+211.259	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+211.385	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+211.386	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9607658			
+211.482	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+211.876	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+211.965	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.022	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+212.022	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-9607658			
+212.034	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.034	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.034	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.034	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.036	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.036	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.036	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+212.036	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9611228			
+212.150	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.150	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.150	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+212.150	VisExited	UnityEngine.GameObject	axis Price visualisation	-9611228			
+212.150	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.150	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.235	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.235	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.467	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+212.467	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+212.467	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+212.467	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9611228			
+212.492	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+213.240	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+213.241	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+213.241	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+213.241	AxisGrab	UnityEngine.GameObject	axis Price	-9607658			
+213.242	AxisRelease	UnityEngine.GameObject	axis Price	-9607658			
+213.925	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+213.926	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+213.927	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9607658			
+214.147	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+214.147	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+214.147	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+214.147	VisExited	UnityEngine.GameObject	axis Price visualisation	-9611228			
+214.147	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+214.334	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+214.335	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+214.335	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+214.335	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+214.335	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9611228			
+214.718	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+214.718	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+214.718	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+214.719	AxisGrab	UnityEngine.GameObject	axis Price	-9607658			
+214.719	AxisRelease	UnityEngine.GameObject	axis Price	-9607658			
+215.300	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+215.301	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+215.302	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9607658			
+215.500	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+215.500	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+215.500	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+215.500	VisExited	UnityEngine.GameObject	axis Price visualisation	-9611228			
+215.500	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+215.824	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+215.824	AxisGrab	UnityEngine.GameObject	axis Price	-9607658			
+215.824	AxisRelease	UnityEngine.GameObject	axis Price	-9607658			
+216.591	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+216.592	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9607658			
+216.753	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+216.828	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+216.828	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+216.828	AxisEntered	UnityEngine.GameObject	axis Price	-9607658			
+216.828	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9611228			
+216.937	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+216.937	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+216.937	AxisExited	UnityEngine.GameObject	axis Price	-9607658			
+216.937	VisExited	UnityEngine.GameObject	axis Price visualisation	-9611228			
+216.937	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+216.937	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+216.970	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+216.970	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+217.102	FilterAdded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+217.162	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+217.172	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+217.604	FilterAdded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+217.622	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+217.622	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+217.622	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+218.106	FilterAdded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+220.192	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+220.193	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+220.317	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+220.317	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+220.317	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+220.494	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+220.494	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+220.568	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+220.697	FilterAdded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+220.765	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+221.204	FilterAdded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+221.265	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+221.580	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+221.710	FilterAdded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+221.767	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+222.181	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+222.647	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+222.833	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+223.511	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+224.308	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+225.079	FilterSliderEntered	UnityEngine.GameObject	Collision Detector	-9612322	UnityEngine.GameObject	Controller (right)	18530
+225.673	FilterSliderEntered	UnityEngine.GameObject	Collision Detector	-9612322	UnityEngine.GameObject	Controller (right)	18530
+225.810	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+226.009	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780	UnityEngine.GameObject	FilterBubbleButton	-9611084
+226.111	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+226.537	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+227.001	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.178	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.178	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.178	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+227.259	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+227.260	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.260	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.617	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.617	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9610780			
+227.617	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+227.709	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+227.731	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9606444			
+229.608	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+229.661	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+229.661	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+229.661	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9561866			
+230.044	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+230.044	AxisCloningInitiated	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+230.248	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9556108			
+230.248	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9561866			
+231.362	AxisCloned	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.370	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.386	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.386	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.386	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-9613106			
+231.408	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.408	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-9613106			
+231.409	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.488	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.741	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+231.825	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+231.859	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+232.034	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+232.085	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+232.231	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+232.431	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+232.541	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+232.847	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+232.847	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+232.847	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+234.783	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+234.784	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+234.910	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+237.155	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+237.155	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9559178			
+237.491	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+237.491	VisExited	UnityEngine.GameObject	axis Price visualisation	-9559178			
+237.491	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+237.536	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+237.536	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-9553264			
+237.585	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+238.703	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+238.754	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+238.981	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.008	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.021	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.048	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.062	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.108	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.120	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.132	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.143	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.154	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.165	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.569	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.569	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9559178			
+239.851	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+239.851	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-9553264			
+239.876	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+239.876	VisExited	UnityEngine.GameObject	axis Price visualisation	-9559178			
+239.876	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+239.876	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+240.436	AxisCloned	UnityEngine.GameObject	axis Price	-9613626			
+240.443	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+240.518	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+240.844	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+241.071	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+241.088	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+241.088	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+241.088	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9614332			
+241.314	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+241.314	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+241.314	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+241.744	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+241.744	VisExited	UnityEngine.GameObject	axis Price visualisation	-9614332			
+243.341	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+243.413	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+243.415	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+243.921	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+244.094	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+244.539	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+244.539	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+244.539	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+244.539	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+244.697	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+244.698	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+244.698	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+244.698	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+244.698	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+244.698	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+245.376	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+245.377	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+245.379	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+245.566	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+245.566	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+245.567	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+245.567	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+245.617	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+245.617	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+245.617	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+245.617	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+246.063	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+246.064	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+246.064	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+246.064	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+246.064	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+246.065	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+246.090	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+246.090	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+246.090	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+246.090	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+246.115	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+246.454	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+246.479	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+246.930	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+246.931	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+246.932	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+247.029	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+247.029	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+247.029	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+247.029	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+247.351	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+247.503	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+247.504	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+247.504	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+247.504	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+247.504	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+247.504	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+248.085	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+248.086	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+248.088	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+248.244	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+248.244	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+248.244	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+263.806	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+263.860	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+264.022	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+264.022	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+264.022	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+264.267	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+264.268	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+264.268	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+264.268	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+264.268	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+264.268	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+264.706	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+264.708	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+264.709	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+264.886	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+264.886	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+264.887	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+265.424	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+265.424	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+265.424	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+265.728	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+265.728	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+265.728	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+265.728	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+265.729	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+265.729	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+266.565	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+266.566	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+266.568	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+266.745	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+266.745	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+266.745	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+275.688	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+275.688	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+276.287	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+276.288	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+276.927	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+276.927	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+276.928	BrushStarted	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+276.928	Brush	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+278.165	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+278.165	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+335.275	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+335.275	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+336.634	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+336.634	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+336.873	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+336.873	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+339.598	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+339.598	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+347.188	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+347.189	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+348.208	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+348.208	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9614780			
+393.230	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9554192			
+393.230	VisEntered	UnityEngine.GameObject	axis Year-Built visualisation	-9560074			
+393.535	AxisExited	UnityEngine.GameObject	axis Year-Built	-9554192			
+393.535	VisExited	UnityEngine.GameObject	axis Year-Built visualisation	-9560074			
+393.535	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9554192			
+393.813	AxisExited	UnityEngine.GameObject	axis Year-Built	-9554192			
+393.813	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9554192			
+393.813	VisEntered	UnityEngine.GameObject	axis Year-Built visualisation	-9560074			
+394.117	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+394.117	AxisCloningInitiated	UnityEngine.GameObject	axis Year-Built	-9554192			
+394.309	AxisExited	UnityEngine.GameObject	axis Year-Built	-9554192			
+394.309	VisExited	UnityEngine.GameObject	axis Year-Built visualisation	-9560074			
+395.329	AxisCloned	UnityEngine.GameObject	axis Year-Built	-9615340			
+395.337	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+395.513	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+395.735	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+395.761	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+395.874	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+395.874	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+395.874	VisEntered	UnityEngine.GameObject	axis Year-Built visualisation	-9615926			
+396.132	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+396.133	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+396.133	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+396.418	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+396.418	VisExited	UnityEngine.GameObject	axis Year-Built visualisation	-9615926			
+396.418	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+400.109	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+400.110	AxisReleasedInVis	UnityEngine.GameObject	axis Year-Built	-9615340			
+400.155	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+400.155	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+400.155	VisEntered	UnityEngine.GameObject	axis Year-Built visualisation	-9616892			
+400.187	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+400.187	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9617818			
+400.477	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+400.477	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+400.477	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9617340			
+400.773	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+400.773	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+400.773	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9617340			
+401.221	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+401.222	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9617340			
+401.222	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+401.222	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+401.222	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+401.223	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+402.277	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+402.279	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+402.280	AxisReleasedInVis	UnityEngine.GameObject	axis Year-Built	-9615340			
+402.858	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+402.858	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+402.858	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+402.858	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price axis Year-Built visualisation	-9618820			
+403.256	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+403.256	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Price axis Year-Built visualisation	-9618820			
+403.256	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+403.257	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+403.257	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+403.257	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+403.257	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+403.257	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+408.846	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+408.847	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+408.849	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+408.850	AxisReleasedInVis	UnityEngine.GameObject	axis Year-Built	-9615340			
+409.219	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+409.219	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+409.219	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+409.219	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price axis Year-Built visualisation	-9618820			
+409.231	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+409.469	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+409.469	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+409.469	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+409.826	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+409.940	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+410.206	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+410.207	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+410.257	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+410.257	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+410.257	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9619832			
+410.412	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+410.412	VisExited	UnityEngine.GameObject	axis Price visualisation	-9619832			
+410.565	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+410.565	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+410.565	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+410.933	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+410.934	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+410.934	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+410.934	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+410.935	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+410.935	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+411.763	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+411.764	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+411.765	AxisReleasedInVis	UnityEngine.GameObject	axis Year-Built	-9615340			
+412.096	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+412.096	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+412.096	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+412.440	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+412.440	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+412.440	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+412.748	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+412.749	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+412.749	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+412.749	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+412.749	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+412.749	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+413.665	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+413.667	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+413.668	AxisReleasedInVis	UnityEngine.GameObject	axis Year-Built	-9615340			
+413.785	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+413.785	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+413.785	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+413.785	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+413.833	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+414.466	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+414.501	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price visualisation	-9619832	UnityEngine.GameObject	FilterBubbleButton	-9620136
+414.652	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+414.652	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+414.652	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+415.523	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+415.524	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+415.609	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+416.224	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+416.284	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+416.284	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+416.284	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+416.284	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+416.550	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+416.551	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+416.551	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+416.551	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+416.551	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+416.551	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+417.213	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+417.215	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+417.216	AxisReleasedInVis	UnityEngine.GameObject	axis Year-Built	-9615340			
+417.383	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+417.383	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+417.383	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+417.748	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354	UnityEngine.GameObject	FilterBubbleButton	-9619658
+423.925	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price visualisation	-9619832	UnityEngine.GameObject	FilterBubbleButton	-9620136
+424.566	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+424.867	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+424.867	AxisGrab	UnityEngine.GameObject	axis Price	-9613626			
+424.867	AxisRelease	UnityEngine.GameObject	axis Price	-9613626			
+425.471	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price visualisation	-9619832	UnityEngine.GameObject	FilterBubbleButton	-9620136
+426.276	VisHintAreaEntered	UnityEngine.GameObject	ColorPrompt	-9619370	UnityEngine.GameObject	axis Price visualisation	-9619832
+427.660	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+427.661	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9613626			
+427.663	VisColorAttrAdded	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+427.751	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+427.751	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+427.751	AxisEntered	UnityEngine.GameObject	axis Price	-9613626			
+427.751	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9620318			
+427.966	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+427.966	AxisExited	UnityEngine.GameObject	axis Price	-9613626			
+427.966	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Price visualisation	-9620318			
+428.473	VisColorAttrAdded	UnityEngine.GameObject	Visualization(Clone)	-9621282			
+428.605	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9621282	UnityEngine.GameObject	FilterBubbleButton	-9621586
+428.787	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354	UnityEngine.GameObject	FilterBubbleButton	-9619658
+430.684	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+430.684	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+430.973	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+430.973	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9621282			
+431.385	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+431.385	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+431.573	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+431.573	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+432.170	TouchpadLeftPress	UnityEngine.GameObject	Controller (right)	18530			
+432.171	touchpadUpPress	UnityEngine.GameObject	Controller (right)	18530			
+432.326	touchpadUpRelease	UnityEngine.GameObject	Controller (right)	18530			
+432.326	BrushEnd	UnityEngine.GameObject	axis Neighbourhood axis Year-Built visualisation	-9619354			
+492.747	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+492.918	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+492.918	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+492.918	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-9562314			
+496.618	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+496.618	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-9562314			
+502.777	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+502.806	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+502.806	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+502.806	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-9562314			
+503.082	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+503.082	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-9562314			
+503.082	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+503.283	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+513.072	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+513.072	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-9562314			
+513.942	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+513.943	AxisCloningInitiated	UnityEngine.GameObject	axis Floor-Level	-9556632			
+514.115	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+514.115	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-9562314			
+514.652	AxisCloned	UnityEngine.GameObject	axis Floor-Level	-9621838			
+514.659	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+514.751	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+515.069	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+515.546	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+515.763	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+515.763	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9621838			
+515.763	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9621838			
+517.408	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+517.409	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9621838			
+517.648	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+518.128	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+518.747	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+518.747	AxisGrab	UnityEngine.GameObject	axis Year-Built	-9615340			
+518.748	AxisRelease	UnityEngine.GameObject	axis Year-Built	-9615340			
+519.987	FilterBubbleCollapsed	UnityEngine.GameObject	axis Year-Built visualisation	-9623224	UnityEngine.GameObject	FilterBubbleButton	-9623528
+519.988	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+520.038	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+520.039	AxisEntered	UnityEngine.GameObject	axis Year-Built	-9615340			
+520.039	VisEntered	UnityEngine.GameObject	axis Year-Built visualisation	-9623224			
+520.063	AxisExited	UnityEngine.GameObject	axis Year-Built	-9615340			
+520.063	VisExited	UnityEngine.GameObject	axis Year-Built visualisation	-9623224			
+520.515	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+520.611	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+520.689	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+520.701	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+520.988	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+521.189	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+521.189	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9621838			
+521.189	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9621838			
+522.729	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+522.730	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9621838			
+522.976	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+522.976	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+522.976	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+522.976	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+523.583	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+523.583	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+523.583	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+523.583	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+523.583	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9621838			
+523.584	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9621838			
+524.536	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+524.538	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+524.540	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9621838			
+524.805	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+524.805	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+524.805	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+528.604	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+534.129	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+534.389	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+534.389	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+534.390	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+535.277	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+535.279	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+535.383	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+535.383	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+535.383	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+535.383	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+535.847	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+535.848	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+535.848	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+535.848	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+535.848	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9621838			
+535.848	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9621838			
+537.132	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+537.134	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+537.135	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9621838			
+537.368	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+537.368	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+537.368	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+537.368	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+537.368	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+537.368	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+537.368	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+537.368	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+537.368	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+539.494	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+550.911	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+551.295	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+551.295	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+551.295	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+551.622	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+551.623	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+551.623	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+551.623	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+551.623	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9621838			
+551.624	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9621838			
+552.816	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+552.818	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+552.820	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9621838			
+553.159	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+553.159	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+553.159	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9623672			
+553.159	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+553.159	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+553.159	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+553.159	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+553.159	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+553.159	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+554.047	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+556.600	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9556632			
+556.956	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+556.957	AxisCloningInitiated	UnityEngine.GameObject	axis Floor-Level	-9556632			
+556.999	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9556632			
+557.730	AxisCloned	UnityEngine.GameObject	axis Floor-Level	-9624742			
+557.738	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9624742			
+557.825	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.183	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+558.287	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.333	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.333	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.333	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-9625232			
+558.502	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+558.502	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.503	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.779	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9624742			
+558.779	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-9625232			
+558.779	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9624742			
+561.354	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+561.355	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9624742			
+561.512	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9624742			
+561.864	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+561.872	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+562.372	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+562.886	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+563.385	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+563.894	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+564.164	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+564.403	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+565.508	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+565.913	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+566.028	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+566.222	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+566.674	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+566.674	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+566.737	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+566.745	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+566.962	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+567.245	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+567.752	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+567.828	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+568.263	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+569.848	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+570.365	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+570.866	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.371	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.392	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+571.417	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.442	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.461	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.482	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.505	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.526	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.546	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.571	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.599	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.623	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.648	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.670	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.694	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.719	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.744	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.773	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.796	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.820	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.843	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.868	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.892	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.898	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.916	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.943	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.966	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+571.990	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.012	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.036	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.060	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.084	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.111	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.134	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.159	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.184	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.207	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.230	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.255	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.282	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.305	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.328	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.351	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.378	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.401	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.425	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.452	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.483	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.510	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.535	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.559	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.584	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.606	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.629	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.652	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.679	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.702	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.724	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.750	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.772	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.796	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.820	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.847	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.871	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.895	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.919	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.940	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.962	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+572.986	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.015	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.039	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.063	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.086	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.109	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.133	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.158	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.184	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.208	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.234	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.258	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.280	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.304	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.327	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.354	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.379	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.402	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.426	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.449	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.473	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.494	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.520	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.543	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.567	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.590	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.613	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.636	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.661	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.684	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.712	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.734	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.759	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.781	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.803	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.826	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.850	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.880	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.903	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.927	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.949	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.972	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+573.996	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.019	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.047	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.071	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.097	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.119	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.142	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.165	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.187	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.213	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.236	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.261	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.284	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.309	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.331	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.354	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.379	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.405	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.428	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.451	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.476	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.500	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.526	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.549	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.576	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.601	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.625	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.650	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.673	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.697	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.720	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.749	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.773	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.795	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.817	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.839	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.863	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.886	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.912	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.936	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.960	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+574.983	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.006	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.029	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.050	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.073	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.099	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.122	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.145	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.168	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.192	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.214	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.237	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.265	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.287	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.309	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.331	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.352	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.377	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.399	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.425	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.447	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.469	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.492	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.514	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.537	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.559	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.588	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.611	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.635	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.657	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.680	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.703	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.725	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.749	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.776	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.799	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.823	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.845	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.869	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.891	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.915	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.941	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.975	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+575.998	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.023	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.045	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.067	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.090	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.112	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.138	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.160	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.182	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.204	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.229	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.253	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.276	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.301	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.325	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.347	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.370	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.392	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.415	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.440	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.466	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.489	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.512	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.535	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.558	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.580	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.603	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.629	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.655	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.678	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.700	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.723	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.747	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.770	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.796	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.820	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.842	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.866	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.889	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.912	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.934	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.960	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+576.983	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.006	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.029	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.052	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.077	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.100	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.122	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.150	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.171	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.194	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.216	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.238	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.261	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.286	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.312	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.334	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.357	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.379	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.401	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.424	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.446	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.474	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.498	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.520	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.543	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.565	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.589	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.611	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.638	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.660	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.682	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.707	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.729	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.753	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.775	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.802	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.823	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.845	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.869	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.891	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.916	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.938	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.963	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+577.986	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.008	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.031	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.053	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.075	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.099	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.127	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.150	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.172	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.195	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.218	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.242	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.267	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.294	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.317	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.342	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.366	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.388	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.410	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.432	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.458	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.481	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.504	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.527	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.551	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.573	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.597	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+578.613	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+578.624	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+579.127	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+579.636	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.147	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.265	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+580.285	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.306	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.326	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.345	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.370	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.392	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.418	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.441	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.463	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.487	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.509	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.535	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.557	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.580	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.602	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.627	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.650	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.657	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.673	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.699	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.722	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.747	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.768	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.791	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.814	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.837	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.864	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.886	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.909	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.932	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.953	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.976	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+580.999	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.024	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.049	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.070	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.094	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.117	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.142	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.165	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.192	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.217	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.240	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.264	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.287	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.311	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.333	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.359	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.382	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.404	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.427	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.448	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.474	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.497	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.523	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.546	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.568	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.591	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.613	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.636	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+581.652	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+581.659	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+582.166	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+582.672	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+583.176	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+583.681	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+584.178	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+584.684	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+585.191	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+585.703	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+586.208	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+586.716	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+587.226	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+587.728	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+588.235	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+588.737	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+589.239	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+589.742	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+590.242	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+590.744	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+591.216	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+591.250	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+591.753	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+592.256	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+592.760	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+592.886	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+593.134	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+593.134	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+593.134	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9559178			
+593.272	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+593.374	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+593.374	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-9553264			
+593.389	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+593.389	VisExited	UnityEngine.GameObject	axis Price visualisation	-9559178			
+593.389	AxisEntered	UnityEngine.GameObject	axis Price	-9553264			
+593.440	AxisExited	UnityEngine.GameObject	axis Price	-9553264			
+593.772	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+594.378	AxisCloned	UnityEngine.GameObject	axis Price	-9822132			
+594.388	AxisEntered	UnityEngine.GameObject	axis Price	-9822132			
+594.522	AxisExited	UnityEngine.GameObject	axis Price	-9822132			
+594.778	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+594.870	AxisEntered	UnityEngine.GameObject	axis Price	-9822132			
+595.022	AxisExited	UnityEngine.GameObject	axis Price	-9822132			
+595.022	AxisEntered	UnityEngine.GameObject	axis Price	-9822132			
+595.022	VisEntered	UnityEngine.GameObject	axis Price visualisation	-9822838			
+595.080	AxisExited	UnityEngine.GameObject	axis Price	-9822132			
+595.080	VisExited	UnityEngine.GameObject	axis Price visualisation	-9822838			
+595.080	AxisEntered	UnityEngine.GameObject	axis Price	-9822132			
+595.218	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+595.218	AxisGrab	UnityEngine.GameObject	axis Price	-9822132			
+595.219	AxisRelease	UnityEngine.GameObject	axis Price	-9822132			
+595.304	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+598.302	VisHintAreaEntered	UnityEngine.GameObject	SizePrompt	-9624234	UnityEngine.GameObject	axis Price visualisation	-9822838
+598.345	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9823286			
+599.122	FilterBubbleExpanded	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+599.378	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9824302			
+599.389	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Longitude visualisation	-9605476	UnityEngine.GameObject	FilterBubbleButton	-9605780
+600.992	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9825250			
+600.993	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9825250			
+601.685	FilterAdded	UnityEngine.GameObject	Visualization(Clone)	-9826266			
+602.324	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+602.325	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-9822132			
+602.329	VisSizeAttrAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+602.522	AxisExited	UnityEngine.GameObject	axis Price	-9822132			
+602.753	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+602.833	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+602.880	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+603.338	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+603.396	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+603.846	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+604.356	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+604.863	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+605.363	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+605.866	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+606.370	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+606.874	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+607.385	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+607.889	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+608.391	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+608.896	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+609.397	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+609.910	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+610.418	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+610.918	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+611.430	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+611.932	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+612.439	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+612.949	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+613.450	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+613.956	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+614.307	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+614.460	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+614.961	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+615.469	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+615.980	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+616.489	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+616.993	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+617.505	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+618.008	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+618.520	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+619.037	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+619.538	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+620.039	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+620.547	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+621.053	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+621.558	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+622.059	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+622.573	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+623.074	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+623.587	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+624.095	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+624.598	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+625.102	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+625.605	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+626.108	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+626.614	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+626.786	FilterBubbleExpanded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+627.122	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+627.637	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+628.143	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+628.648	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.154	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.655	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.776	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+629.799	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.824	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.849	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.875	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.898	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.938	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.962	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+629.987	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.011	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.035	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.060	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.084	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.111	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.136	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.159	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.166	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.183	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.207	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.230	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.255	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.284	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.308	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.331	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.355	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.380	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.403	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.431	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.454	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.478	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.504	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.528	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.551	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.574	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.601	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.626	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.650	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.674	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.698	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.723	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.748	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.775	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.799	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.823	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.847	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.872	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.895	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.923	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.948	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.972	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+630.997	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.020	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.044	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.067	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.095	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.120	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.146	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.169	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.193	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.216	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.239	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.267	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.290	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.315	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.338	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.364	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.388	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.414	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.439	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.462	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.487	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.510	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.534	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.558	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.588	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.612	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.636	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.659	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.683	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.707	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.731	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.760	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.785	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.810	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.833	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.857	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.881	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.908	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.933	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.956	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+631.980	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.006	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.030	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.053	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.080	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.105	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.128	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.153	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.176	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.201	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.226	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.255	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.279	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.303	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.326	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.350	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.375	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.399	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.426	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.452	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.476	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.501	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.525	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.548	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.575	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.599	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.623	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.648	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.673	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.697	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.721	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.749	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.773	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.796	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.821	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.844	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.869	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.895	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.922	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.946	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.970	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+632.996	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.020	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.044	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.068	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.096	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.122	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.146	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.170	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.194	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.217	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.245	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.280	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.305	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.330	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.354	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.379	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.403	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.426	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.454	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.476	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.496	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.514	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.533	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.549	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.565	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.582	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.598	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.618	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.635	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.654	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.673	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+633.686	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+633.690	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.202	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.705	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.832	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+634.850	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.872	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.893	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.921	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.944	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.969	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+634.995	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.019	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.043	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.067	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.095	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.119	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.143	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.166	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.189	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.215	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.221	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.239	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.267	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.291	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.315	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.339	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.363	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.386	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.410	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.440	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.463	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.488	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.511	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.536	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.559	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.587	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.611	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.637	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.661	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.684	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.708	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.732	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.761	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.785	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.809	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.833	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.859	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.883	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.907	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.935	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.958	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+635.982	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.006	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.031	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.056	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.086	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.110	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.134	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.158	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.181	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.205	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.229	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.258	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.282	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.308	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.331	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.355	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.380	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.403	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.431	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.454	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.478	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.502	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.528	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.552	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.575	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.604	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.628	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.652	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.676	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.700	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.723	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+636.742	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+636.754	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.175	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+637.196	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.217	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.242	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.268	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.274	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.292	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.316	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.339	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.365	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.392	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.416	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.440	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.463	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.488	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.511	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.535	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.562	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.588	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.613	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.637	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.660	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.683	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.711	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.734	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.760	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.784	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.810	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.834	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+637.850	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+637.858	VisLocalFiltered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+638.362	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+638.512	FilterBubbleCollapsed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190	UnityEngine.GameObject	FilterBubbleButton	-9624494
+638.863	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+639.366	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+639.870	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+640.378	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+640.882	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+641.388	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+641.883	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+642.388	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+642.890	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+643.397	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+643.906	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+644.410	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+644.916	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+645.420	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+645.925	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+646.437	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+646.937	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+647.442	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+647.949	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+648.454	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+648.969	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+649.465	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+649.970	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+650.471	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+650.975	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+651.483	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+651.987	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+652.497	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+653.002	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+653.514	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+654.019	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+654.521	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+655.026	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+655.540	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+656.041	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+656.542	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+657.046	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+657.554	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+658.066	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+658.569	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+659.078	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+659.581	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+660.083	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+660.586	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+661.091	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+661.603	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+662.110	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+662.618	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+663.127	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+663.629	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+664.142	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+664.642	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+665.142	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+665.648	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+666.151	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+666.654	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+667.166	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+667.669	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+668.171	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+668.682	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+669.195	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+669.713	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+670.208	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+670.708	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+671.215	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+671.723	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+672.236	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+672.747	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+672.947	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+672.947	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-9621838			
+672.947	VisEntered	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+673.049	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+673.049	VisGrabbed	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+673.049	AxisGrab	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+673.049	AxisRelease	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+673.050	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-9621838			
+673.050	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-9621838			
+673.249	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+673.567	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+673.568	AxisReleasedInVis	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+673.570	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-9621838			
+673.671	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-9612376			
+673.671	AxisExited	UnityEngine.GameObject	axis Floor-Level	-9621838			
+673.671	VisExited	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+674.082	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+674.586	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+675.092	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+675.603	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+676.112	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+676.617	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+677.122	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+677.638	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+678.142	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+678.647	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+679.149	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+679.662	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+680.166	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+680.673	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+681.182	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+681.687	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+682.198	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+682.701	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+683.203	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+683.704	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+684.215	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+684.725	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+685.225	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+685.731	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+686.245	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+686.750	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+687.255	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+687.764	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+688.270	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+688.772	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+689.281	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+689.793	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+690.297	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+690.804	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+691.309	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+691.812	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+692.324	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+692.836	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			
+693.337	FilterAdded	UnityEngine.GameObject	axis Neighbourhood axis Floor-Level visualisation	-9624190			

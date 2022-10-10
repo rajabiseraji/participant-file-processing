@@ -1,0 +1,487 @@
+Timestamp	ActionName	ActionSourceObj	ActionSourceObjName	ActionSourceObjID	ActionTargetObj	ActionTargetObjName	ActionTargetObjID
+175.946	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+176.443	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+176.946	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+177.447	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+177.947	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+178.458	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+178.967	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+179.468	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+179.972	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+180.480	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+180.990	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+181.494	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+181.995	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+182.502	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+183.003	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+183.503	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+184.016	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+184.525	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+185.026	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+185.529	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+186.036	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+186.566	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+187.068	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+187.569	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+188.070	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+188.570	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+189.079	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+189.590	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+190.091	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+190.594	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+191.102	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+191.605	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+192.114	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+192.617	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+193.122	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+193.624	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+194.124	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+194.624	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+195.128	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+195.634	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+196.144	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+196.651	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+197.147	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+197.653	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+198.158	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+198.670	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+199.171	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+199.679	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+200.179	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+200.691	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+201.198	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+201.706	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+202.214	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+202.717	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+203.228	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+203.736	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+204.245	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+204.746	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+205.260	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+205.770	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+206.283	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+206.781	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+207.281	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+207.781	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+208.291	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+208.477	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+208.802	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+208.848	FilterBubbleExpanded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+209.303	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+209.811	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.310	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+210.310	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+210.310	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+210.314	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.324	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.338	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.354	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.366	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.379	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.391	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.404	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.420	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.435	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.451	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.466	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.485	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.501	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.517	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.532	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.547	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.563	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.579	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.594	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.614	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.629	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.644	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.661	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.675	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.690	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.705	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.723	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.742	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.757	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.773	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.788	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.804	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.819	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.835	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.849	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.864	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.883	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.897	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.912	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.928	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.944	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.958	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.973	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+210.987	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.002	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.017	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.036	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.052	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.067	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.082	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.096	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.112	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.127	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.143	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.160	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.174	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.192	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.207	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.222	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.233	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+211.238	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.532	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+211.532	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+211.532	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+211.547	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.560	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.572	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.589	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.601	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.614	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.627	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.639	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.653	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.669	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.685	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.703	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.719	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.734	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.749	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.753	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.766	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.783	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.798	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.813	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.829	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.847	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.862	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.877	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.893	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.908	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.924	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.940	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.954	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.974	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+211.990	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.006	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.022	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.037	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.053	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.068	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.083	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.098	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.117	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.133	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.148	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.164	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.181	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.196	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.211	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.227	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.246	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.261	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.277	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.292	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.308	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.323	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.338	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.354	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.369	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.389	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.406	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.421	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.436	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.452	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.468	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.482	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.498	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.516	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.532	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.547	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.563	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.578	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.594	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.610	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.625	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.641	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.667	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.685	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.700	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+212.712	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+212.717	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+213.110	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+213.225	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+213.728	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+214.111	FilterBubbleExpanded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+214.235	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+214.735	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+215.237	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+215.643	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+215.738	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+216.246	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+216.742	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+216.742	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+216.745	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+216.757	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+217.177	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+217.692	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+218.091	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+218.091	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+218.091	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+218.206	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+218.724	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+219.236	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+219.746	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+219.910	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+219.910	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+219.911	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+220.215	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+220.254	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+220.631	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+220.631	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+220.632	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+220.757	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+221.088	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+221.593	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+222.102	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+222.291	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+222.291	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+222.292	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+222.613	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+222.809	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+223.188	FilterBubbleExpanded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+223.313	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+223.821	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+224.233	FilterSliderEntered	UnityEngine.GameObject	Collision Detector	-9303182	UnityEngine.GameObject	Controller (right)	18530
+224.330	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+224.665	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+224.665	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+224.665	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+224.836	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+225.000	FilterSliderEntered	UnityEngine.GameObject	Collision Detector	-9303182	UnityEngine.GameObject	Controller (right)	18530
+225.162	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+225.162	FilterRemoved	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+225.987	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+226.494	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+226.723	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+226.954	FilterBubbleCollapsed	UnityEngine.GameObject	axis Latitude visualisation	-9549006	UnityEngine.GameObject	FilterBubbleButton	-9549310
+226.994	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+227.219	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+227.219	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+227.219	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+227.504	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+227.621	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+228.111	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+228.111	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+228.111	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+228.140	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+228.431	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+228.936	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+228.944	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+228.944	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+228.944	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+229.319	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+229.450	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+229.466	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+229.466	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+229.466	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+229.708	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+229.957	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+230.467	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+230.964	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+230.964	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+230.964	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+230.968	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+231.522	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+232.026	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+232.099	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+232.099	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+232.100	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+232.537	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+233.350	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+233.365	FilterBubbleExpanded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+233.835	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+233.835	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+233.835	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+233.863	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+234.241	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+234.332	FilterSliderEntered	UnityEngine.GameObject	Collision Detector	-9549852	UnityEngine.GameObject	Controller (right)	18530
+234.747	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+234.876	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+234.876	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+234.876	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+235.253	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+235.408	FilterSliderEntered	UnityEngine.GameObject	Collision Detector	-9549852	UnityEngine.GameObject	Controller (right)	18530
+235.536	VisLocalFiltered	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+235.536	FilterRemoved	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+237.197	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+237.451	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+237.713	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+238.217	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+238.725	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+239.231	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+239.732	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+240.237	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+240.743	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+241.246	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+241.755	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+242.255	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+242.764	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+243.267	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+243.779	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+244.279	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+244.783	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+245.288	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+245.789	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+246.296	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+246.804	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+247.306	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+247.814	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+248.324	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+248.837	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+249.337	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+249.846	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+250.353	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+250.854	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+251.364	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+251.868	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+252.378	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+252.879	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+253.001	AxisExited	UnityEngine.GameObject	axis Latitude	-9302014			
+253.001	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9302336			
+253.002	AxisEntered	UnityEngine.GameObject	axis Latitude	-9302784			
+253.002	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9549006			
+253.002	AxisEntered	UnityEngine.GameObject	axis Latitude	-9549454			
+253.002	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9550254			
+253.381	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+253.387	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+253.388	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302784			
+253.388	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302784			
+253.388	AxisGrab	UnityEngine.GameObject	axis Latitude	-9549454			
+253.388	AxisRelease	UnityEngine.GameObject	axis Latitude	-9549454			
+253.893	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+254.622	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+254.656	AxisExited	UnityEngine.GameObject	axis Latitude	-9302784			
+254.656	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9549006			
+254.656	AxisExited	UnityEngine.GameObject	axis Latitude	-9549454			
+254.656	VisExited	UnityEngine.GameObject	axis Latitude visualisation	-9550254			
+254.656	AxisEntered	UnityEngine.GameObject	axis Latitude	-9302014			
+254.656	VisEntered	UnityEngine.GameObject	axis Latitude visualisation	-9302336			
+255.136	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+255.643	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+256.145	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+256.645	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+257.090	FilterBubbleExpanded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+257.149	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+257.657	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+257.688	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+258.158	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+258.241	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+258.241	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+258.241	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+258.621	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+258.663	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+259.170	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+259.256	FilterBubbleExpanded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+259.411	FilterBubbleCollapsed	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462	UnityEngine.GameObject	FilterBubbleButton	-9301766
+259.672	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+260.174	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+260.687	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+261.190	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+261.291	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+261.291	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+261.291	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+261.628	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+261.695	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+262.020	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+262.020	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+262.020	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+262.201	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+262.246	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+262.757	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+263.240	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+263.240	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+263.241	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+263.266	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+263.605	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+263.729	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+263.729	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+263.730	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+263.880	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+263.962	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+263.962	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+263.963	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+264.072	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+264.110	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+264.142	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+264.142	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+264.142	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+264.265	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+264.340	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+264.340	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+264.341	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+264.484	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+264.561	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+264.561	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+264.562	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+264.615	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+264.698	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+264.777	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+264.777	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+264.778	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+264.954	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+265.203	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+265.703	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+265.886	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+265.887	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+265.887	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+266.208	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+266.362	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+266.871	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+267.376	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+267.882	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+268.389	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+268.891	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+269.059	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+269.059	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+269.060	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+269.386	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+269.401	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+269.554	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+269.554	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+269.554	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+269.766	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+269.893	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+269.893	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+269.893	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+269.911	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+270.098	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+270.190	triggerPress	UnityEngine.GameObject	Controller (right)	18530			
+270.190	AxisGrab	UnityEngine.GameObject	axis Latitude	-9302014			
+270.190	AxisRelease	UnityEngine.GameObject	axis Latitude	-9302014			
+270.409	triggerRelease	UnityEngine.GameObject	Controller (right)	18530			
+270.613	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+271.114	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+271.614	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+272.125	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+272.636	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+273.136	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+273.639	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+274.146	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+274.647	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+275.148	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+275.648	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+276.163	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+276.670	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+277.179	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+277.686	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+278.188	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+278.698	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+279.832	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+280.335	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			
+280.847	FilterAdded	UnityEngine.GameObject	axis Longitude axis Price visualisation	-9301462			

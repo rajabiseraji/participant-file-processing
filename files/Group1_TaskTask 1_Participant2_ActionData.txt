@@ -1,0 +1,1627 @@
+Timestamp	ActionName	ActionSourceObj	ActionSourceObjName	ActionSourceObjID	ActionTargetObj	ActionTargetObjName	ActionTargetObjID
+342.609	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+342.609	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+342.798	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+342.798	AxisCloningInitiated	UnityEngine.GameObject	axis Land-Value	-1410936			
+342.976	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+342.976	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+343.043	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+343.043	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+343.366	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+343.366	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+343.710	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+343.732	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+363.998	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+363.998	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+363.998	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+364.209	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+364.209	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+364.209	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+364.722	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+364.722	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+364.722	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+365.632	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+365.632	AxisCloningInitiated	UnityEngine.GameObject	axis Land-Value	-1410936			
+366.231	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+366.231	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+366.454	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+366.454	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+366.466	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+366.466	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+366.687	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+366.876	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+391.609	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+391.609	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1409984			
+391.609	VisEntered	UnityEngine.GameObject	axis Renovation-Year visualisation	-1415834			
+391.931	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+391.931	AxisCloningInitiated	UnityEngine.GameObject	axis Renovation-Year	-1409984			
+392.253	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1409984			
+392.253	VisExited	UnityEngine.GameObject	axis Renovation-Year visualisation	-1415834			
+392.253	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+394.665	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+394.668	AxisCloned	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+394.688	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+394.688	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+394.688	VisEntered	UnityEngine.GameObject	axis Renovation-Year visualisation	-1424390			
+394.976	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+394.976	VisExited	UnityEngine.GameObject	axis Renovation-Year visualisation	-1424390			
+394.976	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+396.855	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+396.855	AxisCloningInitiated	UnityEngine.GameObject	axis Land-Value	-1410936			
+397.031	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+397.032	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+397.243	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+397.244	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+397.244	VisEntered	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+397.787	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+398.965	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+398.965	VisExited	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+398.965	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+399.076	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+399.076	AxisCloningInitiated	UnityEngine.GameObject	axis Land-Value	-1410936			
+399.199	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+399.199	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+399.331	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+399.331	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+399.331	VisEntered	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+399.544	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+399.942	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+399.942	VisExited	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+399.942	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+400.410	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+400.410	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1409984			
+400.410	VisEntered	UnityEngine.GameObject	axis Renovation-Year visualisation	-1415834			
+400.587	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1409984			
+400.587	VisExited	UnityEngine.GameObject	axis Renovation-Year visualisation	-1415834			
+400.587	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+401.087	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+401.087	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+401.087	VisEntered	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+401.354	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+401.354	VisExited	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+401.354	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+401.621	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+401.621	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+401.621	VisEntered	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+401.987	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+401.987	AxisCloningInitiated	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+402.532	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1410424			
+402.532	VisExited	UnityEngine.GameObject	axis Renovation-Value visualisation	-1416278			
+402.532	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+403.821	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+404.432	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+404.439	AxisCloned	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+404.943	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+405.109	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+405.109	AxisCloningInitiated	UnityEngine.GameObject	axis Land-Value	-1410936			
+405.132	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+405.132	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+405.443	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+405.443	AxisEntered	UnityEngine.GameObject	axis Land-Value	-1410936			
+405.443	VisEntered	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+405.587	AxisExited	UnityEngine.GameObject	axis Land-Value	-1410936			
+405.587	VisExited	UnityEngine.GameObject	axis Land-Value visualisation	-1416722			
+405.587	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+405.666	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+405.954	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+405.954	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+405.954	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+408.810	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+408.811	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+409.454	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+427.998	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+428.566	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+451.454	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+451.454	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+451.454	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1427086			
+452.232	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+452.232	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+452.232	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1427086			
+459.667	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+459.698	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+460.299	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+460.299	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+460.524	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+460.524	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+460.776	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+460.776	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+461.187	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+461.187	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+461.255	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+461.467	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+461.467	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+461.467	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+461.632	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+461.632	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+461.632	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1414946			
+461.821	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+461.821	VisExited	UnityEngine.GameObject	axis Size visualisation	-1414946			
+461.821	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+461.942	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+461.942	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+462.032	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+462.032	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+462.098	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+462.098	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+462.098	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1414946			
+462.376	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+462.387	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+462.387	VisExited	UnityEngine.GameObject	axis Size visualisation	-1414946			
+462.387	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+462.622	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+462.622	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+462.622	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1414946			
+462.699	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+462.699	AxisCloningInitiated	UnityEngine.GameObject	axis Size	-1409116			
+462.777	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+462.777	VisExited	UnityEngine.GameObject	axis Size visualisation	-1414946			
+462.777	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+462.876	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+462.876	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+462.876	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1414946			
+463.120	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+463.120	VisExited	UnityEngine.GameObject	axis Size visualisation	-1414946			
+463.120	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+466.854	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+466.858	AxisCloned	UnityEngine.GameObject	axis Size	-1427706			
+467.120	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1428220	UnityEngine.GameObject	FilterBubbleButton	-1428520
+467.165	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+467.165	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+467.165	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+467.165	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1428220			
+467.288	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+467.288	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+467.288	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1428220			
+467.288	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+467.332	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+467.332	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+467.332	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+467.332	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1427086			
+467.365	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+467.365	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+467.365	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1427086			
+467.365	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+467.810	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1428220	UnityEngine.GameObject	FilterBubbleButton	-1428520
+470.676	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+470.676	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+470.701	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+470.710	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+471.033	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+471.332	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+471.365	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+471.641	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+471.641	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+471.641	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+473.887	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+473.888	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+474.476	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+474.476	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+475.142	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+475.142	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+475.143	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+475.143	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+475.143	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+475.598	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+475.599	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+475.599	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+475.599	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+475.599	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+475.600	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+475.600	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+475.603	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+478.554	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+478.556	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+478.557	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+478.558	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+478.910	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+478.910	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+478.910	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+478.910	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+478.910	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+479.122	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+479.122	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+479.122	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+479.122	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+479.122	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+479.244	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+479.244	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+479.554	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+479.788	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+480.176	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+480.177	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+480.177	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+480.177	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+480.177	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+480.177	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+480.177	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+480.177	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+482.222	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+482.224	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+482.225	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+482.226	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+482.476	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+482.476	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+482.476	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+482.476	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+482.476	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+483.398	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+483.398	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+483.398	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+483.398	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+483.398	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+483.478	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+483.643	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+483.643	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+483.644	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+483.644	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+483.644	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+483.644	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+483.644	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+483.644	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+489.355	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+489.356	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+489.358	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+489.362	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+489.565	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+489.743	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+489.743	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+489.743	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+489.743	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+489.743	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+490.332	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+490.332	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+490.332	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+490.332	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+490.332	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+490.420	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+490.421	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+490.421	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+490.421	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+490.421	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+490.421	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+490.421	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+490.422	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+491.776	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+491.778	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+491.780	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+491.781	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+492.054	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+492.154	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+492.154	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+492.154	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+492.154	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+492.154	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+502.122	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+503.721	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+504.311	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+504.311	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+504.311	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+504.311	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+504.311	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+505.022	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+505.022	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+505.022	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+505.022	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+505.022	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+505.522	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+505.866	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+505.866	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+505.866	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+505.866	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+505.866	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+505.878	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+505.878	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+505.878	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+505.878	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+505.879	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+505.879	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+505.879	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+505.879	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+507.221	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+507.223	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+507.224	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+507.225	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+507.287	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+507.287	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+507.287	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+507.287	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+507.287	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+507.377	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+507.722	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+507.910	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+507.910	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+507.932	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+508.076	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+508.076	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+508.076	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+508.076	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+508.288	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+508.377	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+508.688	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+508.688	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+508.688	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+508.688	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+508.688	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+508.689	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+508.689	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+508.689	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+509.277	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+509.279	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+509.280	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+509.281	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+509.409	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+509.409	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+509.409	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+509.409	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+509.700	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+509.925	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+509.938	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+510.476	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+510.620	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+510.799	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+510.821	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+511.109	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+511.288	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+511.432	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+513.543	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+513.754	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+513.754	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+513.754	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+513.754	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+513.777	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+513.777	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+513.777	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+513.777	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+513.778	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+513.778	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+513.778	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+513.778	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+515.221	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+515.223	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+515.224	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+515.225	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+515.966	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+515.966	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+516.498	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+516.688	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+516.688	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+516.688	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+516.688	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322			
+516.899	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1430322	UnityEngine.GameObject	FilterBubbleButton	-1430622
+517.191	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+517.199	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+517.199	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+517.199	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+519.022	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+519.023	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+519.199	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+520.276	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+520.699	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+521.832	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+522.410	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+522.847	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+523.254	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+523.966	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+524.332	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+524.420	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+524.643	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+525.199	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+525.299	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+525.299	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+525.299	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+526.199	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+526.199	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+526.588	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+530.967	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+531.354	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+531.774	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+532.077	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+532.077	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+532.077	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+533.198	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+533.199	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+533.432	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+533.798	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+534.221	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+534.531	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+534.887	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+534.887	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+534.887	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+535.713	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1434234	UnityEngine.GameObject	FilterBubbleButton	-1434534
+536.710	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+536.711	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+537.166	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+537.166	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+537.167	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+537.865	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+537.866	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+538.198	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+538.199	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+538.199	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+539.776	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+539.777	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+540.154	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+540.643	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+541.121	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+541.299	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+541.434	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+541.434	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+541.434	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+542.376	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+542.377	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+542.487	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+542.521	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+542.521	VisEntered	UnityEngine.GameObject	axis Renovation-Year visualisation	-1436288			
+542.676	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+542.676	VisExited	UnityEngine.GameObject	axis Renovation-Year visualisation	-1436288			
+543.055	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+543.410	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+543.565	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+543.598	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+543.598	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+543.598	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+544.474	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1436732	UnityEngine.GameObject	FilterBubbleButton	-1437032
+545.255	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+545.257	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+545.299	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+546.109	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+546.110	FilterBubbleCollapsed	UnityEngine.GameObject	axis Size visualisation	-1437244	UnityEngine.GameObject	FilterBubbleButton	-1437544
+546.443	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+546.443	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+546.443	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+548.355	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+548.357	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+548.740	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+550.867	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+551.065	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+551.155	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+551.156	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1436732			
+551.156	AxisCloningInitiated	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+551.156	AxisCloningInitiated	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+551.220	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+551.477	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+551.477	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+551.499	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+551.510	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+551.876	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+551.876	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+551.955	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+552.032	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+552.032	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+552.399	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+552.399	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+552.399	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+552.643	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+552.643	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+554.098	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+554.100	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+555.287	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+555.287	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+555.288	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+557.011	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+557.012	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+557.856	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600	UnityEngine.GameObject	FilterBubbleButton	-1439900
+558.154	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+558.154	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+558.154	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+558.510	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+558.511	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+558.788	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+558.788	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+558.788	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+559.220	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+559.221	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+559.998	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+560.188	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+561.110	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+561.265	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+562.988	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+563.455	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+563.455	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+563.455	AxisCloningInitiated	UnityEngine.GameObject	axis Size	-1427706			
+563.456	AxisCloningInitiated	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+563.955	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+565.621	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+570.655	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+570.655	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+570.655	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+571.566	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+571.567	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+573.054	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+573.188	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+573.277	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+573.277	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+573.277	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+573.910	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+573.911	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+573.976	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+574.065	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+574.098	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+574.098	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+574.098	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+574.098	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+574.343	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+574.344	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+574.344	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+574.344	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+574.344	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+574.345	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+575.189	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+575.191	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+575.192	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+575.498	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+575.498	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+575.498	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+575.498	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+575.698	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600	UnityEngine.GameObject	FilterBubbleButton	-1439900
+576.067	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600	UnityEngine.GameObject	FilterBubbleButton	-1439900
+576.109	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+576.110	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+576.110	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+576.110	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+576.143	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+576.143	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+576.143	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+576.144	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+576.144	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+576.144	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+577.288	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+577.289	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+577.290	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+577.355	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+577.355	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+577.355	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600			
+577.355	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+577.866	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1439600	UnityEngine.GameObject	FilterBubbleButton	-1439900
+586.398	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+586.398	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+586.399	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+588.742	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+588.744	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+588.832	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+588.832	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+589.277	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212	UnityEngine.GameObject	FilterBubbleButton	-1441512
+594.776	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+594.776	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+594.776	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+594.776	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+594.776	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212			
+596.626	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+596.627	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212			
+596.627	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+596.627	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+596.627	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+596.627	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+596.628	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+596.628	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+607.210	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+607.212	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+607.213	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+607.215	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+607.355	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+607.355	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+607.355	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+607.355	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212			
+607.355	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+613.232	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212	UnityEngine.GameObject	FilterBubbleButton	-1441512
+618.499	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212	UnityEngine.GameObject	FilterBubbleButton	-1441512
+619.132	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+619.132	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+619.132	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+619.344	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1441212	UnityEngine.GameObject	FilterBubbleButton	-1441512
+619.684	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1441742	UnityEngine.GameObject	FilterBubbleButton	-1442042
+619.820	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+619.820	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+620.244	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year visualisation	-1442216	UnityEngine.GameObject	FilterBubbleButton	-1442516
+620.265	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+620.266	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+620.266	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+620.266	VisEntered	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1441742			
+620.511	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+620.512	VisGrabbed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1441742			
+620.512	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+620.512	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+620.512	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+620.512	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+621.108	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+621.109	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+621.111	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+629.099	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+629.099	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+629.099	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+629.099	VisEntered	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1443702			
+629.788	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+629.788	VisGrabbed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1443702			
+629.788	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+629.788	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+629.789	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+629.789	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+630.932	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+630.934	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+630.935	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+631.109	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+631.109	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+631.109	VisExited	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1443702			
+631.109	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+631.567	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year visualisation	-1444252	UnityEngine.GameObject	FilterBubbleButton	-1444552
+631.766	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+631.766	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+631.766	VisEntered	UnityEngine.GameObject	axis Renovation-Year visualisation	-1444252			
+631.899	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+631.899	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+631.899	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+634.066	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+634.067	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+634.122	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+634.122	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+634.744	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+634.977	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1444696	UnityEngine.GameObject	FilterBubbleButton	-1444996
+635.855	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+635.855	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Size visualisation	-1444696	UnityEngine.GameObject	FilterBubbleButton	-1444996
+636.144	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+636.144	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+636.145	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+639.198	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+639.200	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+639.755	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1449204	UnityEngine.GameObject	FilterBubbleButton	-1449504
+639.765	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+639.888	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1449204	UnityEngine.GameObject	FilterBubbleButton	-1449504
+640.244	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1449204	UnityEngine.GameObject	FilterBubbleButton	-1449504
+641.267	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210	UnityEngine.GameObject	FilterBubbleButton	-1448510
+641.402	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+641.410	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+641.410	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+641.410	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1449204			
+641.654	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+641.654	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+641.654	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value visualisation	-1449204			
+641.654	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+641.733	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+641.943	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+642.021	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+642.210	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+642.210	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+642.210	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+642.210	VisEntered	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210			
+642.322	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210	UnityEngine.GameObject	FilterBubbleButton	-1448510
+642.666	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+642.667	VisGrabbed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210			
+642.667	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+642.667	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+642.667	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+642.667	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+643.721	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+643.722	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+643.723	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+643.956	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+643.956	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+643.956	VisExited	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210			
+644.010	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210	UnityEngine.GameObject	FilterBubbleButton	-1448510
+644.466	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Value axis Size visualisation	-1448210	UnityEngine.GameObject	FilterBubbleButton	-1448510
+645.365	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year visualisation	-1449716	UnityEngine.GameObject	FilterBubbleButton	-1450016
+645.365	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+645.477	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+646.075	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+646.098	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+646.098	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+646.098	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+649.777	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+649.780	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+650.144	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+650.588	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+650.588	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+650.588	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+650.588	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+650.911	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+650.999	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+650.999	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+650.999	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+650.999	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+650.999	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+650.999	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+651.000	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+651.000	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+653.065	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+653.067	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+653.068	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+653.070	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+653.299	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+653.299	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+653.299	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+653.299	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+653.732	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+658.154	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+658.154	VisEntered	UnityEngine.GameObject	axis Longitude visualisation	-1413614			
+658.176	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+658.176	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+658.410	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+658.410	VisExited	UnityEngine.GameObject	axis Longitude visualisation	-1413614			
+658.643	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+658.677	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+658.745	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+658.745	VisEntered	UnityEngine.GameObject	axis Longitude visualisation	-1413614			
+658.745	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+658.966	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+658.966	VisExited	UnityEngine.GameObject	axis Longitude visualisation	-1413614			
+658.966	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+659.789	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+659.789	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+659.789	VisEntered	UnityEngine.GameObject	axis Longitude visualisation	-1413614			
+659.832	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+659.832	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+660.043	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+660.043	VisExited	UnityEngine.GameObject	axis Longitude visualisation	-1413614			
+660.043	AxisEntered	UnityEngine.GameObject	axis Building-Type	-1408260			
+660.200	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+660.299	AxisExited	UnityEngine.GameObject	axis Building-Type	-1408260			
+660.299	AxisEntered	UnityEngine.GameObject	axis Building-Type	-1408260			
+660.299	VisEntered	UnityEngine.GameObject	axis Building-Type visualisation	-1414058			
+660.776	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+660.776	AxisCloningInitiated	UnityEngine.GameObject	axis Building-Type	-1408260			
+661.265	AxisExited	UnityEngine.GameObject	axis Building-Type	-1408260			
+661.265	VisExited	UnityEngine.GameObject	axis Building-Type visualisation	-1414058			
+661.265	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+662.667	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+662.667	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+662.667	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+662.667	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+662.667	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+663.067	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+663.067	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+663.067	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+663.067	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+663.067	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+663.766	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+664.044	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+664.232	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+664.232	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+664.232	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+664.232	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+664.232	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+664.444	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+664.444	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+664.444	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+664.444	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+664.444	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+665.755	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+665.759	AxisCloned	UnityEngine.GameObject	axis Building-Type	-1451310			
+665.776	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+665.776	AxisEntered	UnityEngine.GameObject	axis Building-Type	-1451310			
+665.777	VisEntered	UnityEngine.GameObject	axis Building-Type visualisation	-1451680			
+666.265	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+666.265	AxisGrab	UnityEngine.GameObject	axis Building-Type	-1451310			
+666.265	AxisRelease	UnityEngine.GameObject	axis Building-Type	-1451310			
+666.744	AxisExited	UnityEngine.GameObject	axis Building-Type	-1451310			
+666.744	VisExited	UnityEngine.GameObject	axis Building-Type visualisation	-1451680			
+666.744	AxisEntered	UnityEngine.GameObject	axis Building-Type	-1451310			
+667.454	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+667.801	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+668.321	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+669.034	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+669.333	VisHintAreaEntered	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+669.522	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+670.200	VisHintAreaExited	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+670.732	VisHintAreaEntered	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+670.910	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+671.365	VisHintAreaExited	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+671.388	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+671.654	VisHintAreaEntered	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+671.676	FilterBubbleCollapsed	UnityEngine.GameObject	axis Building-Type visualisation	-1451680	UnityEngine.GameObject	FilterBubbleButton	-1451980
+672.466	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+672.467	AxisReleasedInVis	UnityEngine.GameObject	axis Building-Type	-1451310			
+672.469	VisColorAttrAdded	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+672.732	AxisExited	UnityEngine.GameObject	axis Building-Type	-1451310			
+672.732	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+672.768	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Building-Type visualisation	-1451680
+678.876	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+678.879	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+678.879	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+680.566	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+680.566	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+691.847	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+691.847	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+691.847	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+695.124	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+695.124	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+696.644	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+696.645	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+696.645	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+700.078	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+700.078	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+732.399	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+732.399	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+732.399	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+732.624	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+732.625	AxisCloningInitiated	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+733.102	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+733.198	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+733.198	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+733.198	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+733.301	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+733.301	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+733.301	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-1417610			
+733.654	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+733.654	AxisCloningInitiated	UnityEngine.GameObject	axis Floor-Level	-1411972			
+734.054	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+734.054	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-1417610			
+734.054	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+735.058	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+735.058	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+735.058	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+735.058	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+735.058	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+735.210	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+735.288	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+735.288	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+735.288	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+735.288	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+735.288	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+735.810	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+735.810	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+735.810	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+735.810	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+735.810	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+736.036	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+736.036	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+736.036	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+736.036	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+736.036	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+738.399	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+738.833	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+738.833	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+738.833	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+738.833	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+738.833	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+739.044	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+739.376	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+739.376	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+739.376	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+739.376	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+739.376	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+739.544	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+739.743	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+739.748	AxisCloned	UnityEngine.GameObject	axis Floor-Level	-1452208			
+739.766	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+739.766	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1452208			
+739.766	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698			
+740.309	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+740.309	AxisGrab	UnityEngine.GameObject	axis Floor-Level	-1452208			
+740.309	AxisRelease	UnityEngine.GameObject	axis Floor-Level	-1452208			
+741.110	VisHintAreaEntered	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+741.322	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+741.358	VisHintAreaExited	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+741.588	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+741.655	VisHintAreaEntered	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+742.020	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+742.765	VisHintAreaEntered	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+743.387	VisHintAreaExited	UnityEngine.GameObject	SizePrompt	-1450716	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+743.600	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+743.997	VisHintAreaEntered	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+744.567	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+744.568	AxisReleasedInVis	UnityEngine.GameObject	axis Floor-Level	-1452208			
+744.569	VisColorAttrAdded	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+744.875	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1452208			
+744.875	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698			
+744.875	VisHintAreaExited	UnityEngine.GameObject	ColorPrompt	-1450688	UnityEngine.GameObject	axis Floor-Level visualisation	-1452698
+744.876	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+755.999	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+755.999	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+755.999	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+758.177	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+760.355	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+760.355	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+760.711	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+760.711	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+760.711	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+764.310	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+764.310	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+781.729	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+781.730	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+781.730	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+782.500	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+782.500	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+784.066	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+784.066	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+784.066	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+790.321	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+790.321	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+790.901	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+790.901	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+790.901	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+791.833	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+791.833	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+792.522	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+792.523	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+792.523	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+795.122	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+795.122	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+795.989	touchpadDownPress	UnityEngine.GameObject	Controller (right)	42272			
+795.990	DoD3DStarted	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+795.990	DoD3D	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	Renovation-Value-Size-Renovation-Year scatterplot3D	-1451148
+798.699	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+798.699	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+798.699	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+798.699	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+798.699	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+802.110	touchpadDownRelease	UnityEngine.GameObject	Controller (right)	42272			
+802.110	DoDEnd	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+802.232	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+802.233	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+802.233	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+802.233	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+802.233	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+813.612	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+818.411	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+818.411	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+818.411	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+818.411	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+818.411	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+818.622	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+818.622	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+818.622	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+818.622	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+818.622	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+818.622	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+818.623	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+818.623	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+819.457	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+819.459	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+819.460	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+819.461	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+819.699	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+819.699	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+819.699	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+819.699	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+819.699	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.232	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+820.232	AxisCloningInitiated	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.259	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.259	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+820.279	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+820.279	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.280	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+820.299	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.299	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+820.299	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+820.332	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+820.332	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.332	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+820.499	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.499	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+820.499	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+820.830	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+820.852	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+820.852	AxisEntered	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.852	VisEntered	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+820.863	AxisExited	UnityEngine.GameObject	axis Neighbourhood	-1411448			
+820.863	VisExited	UnityEngine.GameObject	axis Neighbourhood visualisation	-1417166			
+820.863	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+820.886	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+820.886	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+820.886	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+820.886	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+820.886	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+821.077	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+821.077	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+821.077	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+821.078	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+821.078	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+821.078	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+821.078	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+821.078	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+822.466	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+822.468	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+822.469	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+822.470	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+822.722	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+822.722	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+822.722	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+822.722	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+822.722	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+827.121	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+827.121	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+827.121	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+827.121	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+827.121	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+827.244	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+827.245	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+827.245	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+827.245	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+827.245	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+827.245	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+827.245	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+827.246	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+827.999	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+828.001	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+828.002	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+828.003	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+828.132	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+828.132	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+828.132	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+828.132	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+828.132	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+828.499	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+828.499	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+828.499	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+828.499	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+828.499	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+828.632	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+828.632	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+829.134	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+829.289	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+829.289	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+829.289	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+829.289	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+829.289	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+829.332	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+829.332	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+829.332	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+829.332	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+829.332	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+829.377	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+829.378	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+829.378	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+829.378	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+829.378	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+829.378	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+829.378	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+829.379	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+830.534	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+830.536	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+830.537	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+830.539	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+830.754	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+830.966	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+830.966	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+830.966	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+830.966	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+830.966	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+832.456	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+832.456	AxisEntered	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+832.456	AxisEntered	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+832.456	AxisEntered	UnityEngine.GameObject	axis Size	-1427706			
+832.456	VisEntered	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+832.488	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+832.489	VisGrabbed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+832.489	AxisGrab	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+832.489	AxisRelease	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+832.489	AxisGrab	UnityEngine.GameObject	axis Size	-1427706			
+832.489	AxisRelease	UnityEngine.GameObject	axis Size	-1427706			
+832.489	AxisGrab	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+832.490	AxisRelease	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+832.566	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+832.589	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+832.755	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+833.033	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+833.034	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+833.036	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1427706			
+833.037	AxisReleasedInVis	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+833.154	AxisExited	UnityEngine.GameObject	axis Renovation-Year	-1423828			
+833.154	AxisExited	UnityEngine.GameObject	axis Renovation-Value	-1424942			
+833.154	AxisExited	UnityEngine.GameObject	axis Size	-1427706			
+833.154	VisExited	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672			
+833.154	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+833.210	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+841.033	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+843.310	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+843.310	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+843.334	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+843.334	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+843.746	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+844.266	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+844.300	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+844.377	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+844.466	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+844.766	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+844.766	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+844.779	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+844.779	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+844.779	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+844.832	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+844.832	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+844.832	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+844.910	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+844.910	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+845.955	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+845.960	AxisCloned	UnityEngine.GameObject	axis Price	-1453250			
+846.177	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+846.177	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+846.177	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1453956			
+846.255	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+846.255	VisExited	UnityEngine.GameObject	axis Price visualisation	-1453956			
+846.255	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+846.866	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+846.866	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+846.866	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-1417610			
+847.888	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+847.888	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-1417610			
+847.888	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+848.278	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+848.279	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+848.279	VisEntered	UnityEngine.GameObject	axis Floor-Level visualisation	-1417610			
+848.643	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+848.643	AxisCloningInitiated	UnityEngine.GameObject	axis Floor-Level	-1411972			
+848.877	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+848.877	VisExited	UnityEngine.GameObject	axis Floor-Level visualisation	-1417610			
+848.877	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+849.866	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+850.587	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+850.587	AxisEntered	UnityEngine.GameObject	axis Main-View	-1412376			
+850.587	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1418054			
+851.366	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+851.366	AxisCloningInitiated	UnityEngine.GameObject	axis Main-View	-1412376			
+851.655	AxisExited	UnityEngine.GameObject	axis Main-View	-1412376			
+851.655	VisExited	UnityEngine.GameObject	axis Main-View visualisation	-1418054			
+851.655	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+853.744	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+853.753	AxisCloned	UnityEngine.GameObject	axis Main-View	-1454472			
+853.771	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+853.771	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+853.771	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+854.398	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+854.398	VisExited	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+854.398	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+854.499	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+854.499	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+854.499	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+854.587	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+854.588	VisExited	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+854.588	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+854.659	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+854.660	AxisCloningInitiated	UnityEngine.GameObject	axis Floor-Level	-1411972			
+854.896	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+854.896	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+854.896	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1453956			
+855.020	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+855.020	VisExited	UnityEngine.GameObject	axis Price visualisation	-1453956			
+855.020	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+855.109	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+855.399	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+855.399	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+855.399	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1453956			
+855.800	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+855.800	AxisGrab	UnityEngine.GameObject	axis Price	-1453250			
+855.800	AxisRelease	UnityEngine.GameObject	axis Price	-1453250			
+856.478	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+856.479	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-1453250			
+856.588	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+856.588	VisExited	UnityEngine.GameObject	axis Price visualisation	-1453956			
+856.588	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+856.855	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+856.856	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+856.856	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+857.077	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+857.077	VisExited	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+857.077	AxisEntered	UnityEngine.GameObject	axis Floor-Level	-1411972			
+857.299	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+857.299	AxisCloningInitiated	UnityEngine.GameObject	axis Floor-Level	-1411972			
+857.398	AxisExited	UnityEngine.GameObject	axis Floor-Level	-1411972			
+857.398	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+857.398	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1454842			
+857.633	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+857.823	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+857.823	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+857.823	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+859.821	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+859.823	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+870.332	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+870.332	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+870.332	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+870.332	VisEntered	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+870.444	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+870.444	VisGrabbed	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+870.444	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+870.444	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+870.444	AxisGrab	UnityEngine.GameObject	axis Price	-1453250			
+870.445	AxisRelease	UnityEngine.GameObject	axis Price	-1453250			
+871.579	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+871.581	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+871.582	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-1453250			
+871.731	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+871.731	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+871.731	VisExited	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+871.731	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+883.477	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+883.477	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+883.534	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+883.534	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+883.888	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+884.399	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+884.399	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+884.399	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+885.698	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+885.700	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+885.980	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+885.980	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+898.088	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+898.089	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+898.089	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+898.144	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+898.144	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+898.177	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+898.177	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+898.177	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+898.625	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+898.901	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+898.901	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+898.901	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1414946			
+899.303	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+899.303	AxisCloningInitiated	UnityEngine.GameObject	axis Size	-1409116			
+899.376	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+899.376	VisExited	UnityEngine.GameObject	axis Size visualisation	-1414946			
+899.376	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+905.322	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+905.322	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+905.322	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+905.322	VisEntered	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+905.480	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+905.480	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+905.480	VisExited	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+905.480	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+905.975	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+905.975	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+905.975	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+905.975	VisEntered	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+906.187	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+906.187	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+906.187	VisExited	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1455358			
+906.187	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+907.410	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+907.416	AxisCloned	UnityEngine.GameObject	axis Size	-1455978			
+907.818	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+907.818	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+907.818	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+907.818	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492			
+908.076	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+908.076	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+908.076	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492			
+908.076	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+908.164	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+908.165	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+908.220	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+908.220	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+908.454	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+908.454	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+908.454	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+908.454	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492			
+908.576	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+908.772	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+908.772	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+908.772	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492			
+908.773	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+909.165	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+909.165	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+909.165	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+909.165	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492			
+909.240	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492	UnityEngine.GameObject	FilterBubbleButton	-1456792
+910.316	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+910.317	VisGrabbed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1456492			
+910.317	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+910.317	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+910.317	AxisGrab	UnityEngine.GameObject	axis Size	-1455978			
+910.317	AxisRelease	UnityEngine.GameObject	axis Size	-1455978			
+913.040	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+913.042	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+913.044	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1455978			
+913.069	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+913.069	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1457040			
+913.101	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+913.101	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+913.101	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+913.878	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+913.879	VisGrabbed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+913.879	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+913.879	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+913.879	AxisGrab	UnityEngine.GameObject	axis Size	-1455978			
+913.879	AxisRelease	UnityEngine.GameObject	axis Size	-1455978			
+914.133	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+914.135	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+914.137	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1455978			
+915.441	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+915.441	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+915.441	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+915.441	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+915.812	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+915.812	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+915.852	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+915.852	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+915.904	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+915.904	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+915.904	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+915.904	VisEntered	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1458440			
+916.222	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+916.222	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+916.222	VisExited	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1458440			
+916.222	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+916.273	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+916.594	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+916.594	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+916.594	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+917.546	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+917.548	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+917.844	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+917.844	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+917.844	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+917.844	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+918.093	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+918.093	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+918.093	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+918.093	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+918.499	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484	UnityEngine.GameObject	FilterBubbleButton	-1457784
+918.582	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+918.582	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+918.582	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+918.582	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+918.998	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+918.998	VisGrabbed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+918.998	AxisGrab	UnityEngine.GameObject	axis Main-View	-1454472			
+918.999	AxisRelease	UnityEngine.GameObject	axis Main-View	-1454472			
+918.999	AxisGrab	UnityEngine.GameObject	axis Size	-1455978			
+918.999	AxisRelease	UnityEngine.GameObject	axis Size	-1455978			
+920.453	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+920.455	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1454472			
+920.456	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1455978			
+920.554	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+920.554	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+920.554	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+920.554	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+921.097	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484	UnityEngine.GameObject	FilterBubbleButton	-1457784
+921.910	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1458440	UnityEngine.GameObject	FilterBubbleButton	-1458740
+922.121	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+922.121	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+922.121	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+922.121	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+922.223	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+922.223	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+922.223	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+922.223	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+922.809	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+922.809	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+922.846	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+922.846	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+923.275	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+923.650	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+923.650	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+923.650	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+923.717	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+923.717	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+923.717	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+924.268	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+924.268	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+924.298	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+924.298	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+924.659	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+924.949	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+924.949	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+925.048	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+925.049	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+925.151	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+925.151	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+925.151	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+925.343	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+925.343	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+925.343	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+925.374	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+925.397	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+925.397	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+925.397	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+925.408	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+925.408	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+925.408	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+926.788	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+926.788	AxisEntered	UnityEngine.GameObject	axis Main-View	-1454472			
+926.788	AxisEntered	UnityEngine.GameObject	axis Size	-1455978			
+926.788	VisEntered	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+926.799	AxisExited	UnityEngine.GameObject	axis Main-View	-1454472			
+926.799	AxisExited	UnityEngine.GameObject	axis Size	-1455978			
+926.799	VisExited	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484			
+926.799	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+927.143	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Main-View visualisation	-1458440	UnityEngine.GameObject	FilterBubbleButton	-1458740
+929.083	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+929.083	AxisCloningInitiated	UnityEngine.GameObject	axis Price	-1408604			
+929.108	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+929.108	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+929.156	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+929.156	AxisEntered	UnityEngine.GameObject	axis Price	-1408604			
+929.156	VisEntered	UnityEngine.GameObject	axis Price visualisation	-1414502			
+929.497	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+929.530	AxisExited	UnityEngine.GameObject	axis Price	-1408604			
+929.530	VisExited	UnityEngine.GameObject	axis Price visualisation	-1414502			
+929.530	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+929.762	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+929.762	AxisGrab	UnityEngine.GameObject	axis Price	-1453250			
+929.762	AxisRelease	UnityEngine.GameObject	axis Price	-1453250			
+930.293	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484	UnityEngine.GameObject	FilterBubbleButton	-1457784
+930.418	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484	UnityEngine.GameObject	FilterBubbleButton	-1457784
+930.976	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+930.977	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-1453250			
+931.158	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+931.158	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+934.256	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+934.256	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+934.278	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+934.278	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+934.552	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+934.897	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+934.931	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+935.332	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+935.332	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+935.414	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+935.414	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+935.654	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+935.654	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+935.921	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+936.243	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+936.243	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+936.289	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+936.289	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+936.565	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+936.967	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+937.031	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+937.040	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+937.117	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+937.127	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+937.152	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+937.164	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+937.308	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+937.331	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+937.388	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+937.432	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+937.442	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+937.455	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+937.465	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+937.487	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+937.554	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+942.333	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+942.333	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+942.355	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+942.355	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+942.487	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+942.911	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+942.942	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+943.735	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+943.735	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+943.754	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+944.168	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+944.188	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+944.321	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+944.321	AxisEntered	UnityEngine.GameObject	axis Size	-1409116			
+944.321	VisEntered	UnityEngine.GameObject	axis Size visualisation	-1414946			
+944.556	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+944.556	AxisCloningInitiated	UnityEngine.GameObject	axis Size	-1409116			
+944.612	AxisExited	UnityEngine.GameObject	axis Size	-1409116			
+944.612	VisExited	UnityEngine.GameObject	axis Size visualisation	-1414946			
+944.612	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+956.310	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+956.317	AxisCloned	UnityEngine.GameObject	axis Size	-1459792			
+959.843	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+959.843	AxisEntered	UnityEngine.GameObject	axis Price	-1453250			
+959.843	AxisEntered	UnityEngine.GameObject	axis Size	-1459792			
+959.843	VisEntered	UnityEngine.GameObject	axis Price axis Size visualisation	-1460306			
+959.887	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Size visualisation	-1460306	UnityEngine.GameObject	FilterBubbleButton	-1460606
+960.042	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+960.043	VisGrabbed	UnityEngine.GameObject	axis Price axis Size visualisation	-1460306			
+960.043	AxisGrab	UnityEngine.GameObject	axis Size	-1459792			
+960.043	AxisRelease	UnityEngine.GameObject	axis Size	-1459792			
+960.043	AxisGrab	UnityEngine.GameObject	axis Price	-1453250			
+960.043	AxisRelease	UnityEngine.GameObject	axis Price	-1453250			
+961.466	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+961.468	AxisReleasedInVis	UnityEngine.GameObject	axis Size	-1459792			
+961.469	AxisReleasedInVis	UnityEngine.GameObject	axis Price	-1453250			
+962.074	AxisExited	UnityEngine.GameObject	axis Price	-1453250			
+962.074	AxisExited	UnityEngine.GameObject	axis Size	-1459792			
+962.074	VisExited	UnityEngine.GameObject	axis Price axis Size visualisation	-1460306			
+962.074	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+962.449	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Size visualisation	-1460306	UnityEngine.GameObject	FilterBubbleButton	-1460606
+973.287	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+973.287	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+973.359	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+973.359	AxisEntered	UnityEngine.GameObject	axis Main-View	-1412376			
+973.964	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+974.232	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+974.232	AxisCloningInitiated	UnityEngine.GameObject	axis Main-View	-1412376			
+974.413	AxisExited	UnityEngine.GameObject	axis Main-View	-1412376			
+974.413	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+977.622	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+977.629	AxisCloned	UnityEngine.GameObject	axis Main-View	-1460890			
+977.648	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+978.026	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+978.026	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+978.026	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1461260			
+978.186	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+978.186	VisExited	UnityEngine.GameObject	axis Main-View visualisation	-1461260			
+978.186	AxisEntered	UnityEngine.GameObject	axis Longitude	-1407940			
+978.421	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+978.421	AxisCloningInitiated	UnityEngine.GameObject	axis Longitude	-1407940			
+978.719	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View visualisation	-1461260	UnityEngine.GameObject	FilterBubbleButton	-1461560
+978.798	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+978.854	AxisExited	UnityEngine.GameObject	axis Longitude	-1407940			
+978.854	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+979.078	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+979.078	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+979.078	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+979.725	FilterBubbleCollapsed	UnityEngine.GameObject	axis Renovation-Year axis Renovation-Value axis Size visualisation	-1450672	UnityEngine.GameObject	FilterBubbleButton	-1450972
+981.543	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+981.544	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+981.778	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+982.164	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+982.418	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+982.418	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+982.418	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+983.310	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+983.311	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+983.951	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+983.951	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+983.951	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+984.542	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+984.543	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+985.065	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+985.065	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+985.065	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+985.497	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+985.498	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+985.973	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+985.973	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+985.973	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+986.732	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+986.733	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+986.878	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+987.726	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+987.942	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+987.942	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+987.942	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+988.431	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+988.432	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+988.754	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+988.754	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+988.754	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+989.138	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+989.140	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+989.638	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+989.831	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View axis Size visualisation	-1457484	UnityEngine.GameObject	FilterBubbleButton	-1457784
+990.413	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+990.796	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+990.796	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+990.796	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+991.415	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+991.417	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+991.466	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+992.003	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+992.097	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+992.097	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+992.097	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+992.970	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+992.972	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+993.228	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+994.002	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+994.350	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+994.350	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+994.350	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+994.709	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View visualisation	-1466764	UnityEngine.GameObject	FilterBubbleButton	-1467064
+994.951	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+994.952	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+995.093	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+995.093	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+995.093	VisEntered	UnityEngine.GameObject	axis Main-View visualisation	-1466764			
+995.234	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+995.234	VisExited	UnityEngine.GameObject	axis Main-View visualisation	-1466764			
+995.234	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+995.251	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+995.655	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View visualisation	-1466764	UnityEngine.GameObject	FilterBubbleButton	-1467064
+996.306	FilterBubbleCollapsed	UnityEngine.GameObject	axis Main-View visualisation	-1466764	UnityEngine.GameObject	FilterBubbleButton	-1467064
+996.704	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+997.020	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+997.020	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+997.021	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+999.422	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+999.423	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+999.537	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
+999.644	FilterBubbleCollapsed	UnityEngine.GameObject	axis Size axis Price axis Main-View visualisation	-1468232	UnityEngine.GameObject	FilterBubbleButton	-1468532
+1000.629	AxisEntered	UnityEngine.GameObject	axis Main-View	-1460890			
+1000.719	triggerPress	UnityEngine.GameObject	Controller (right)	42272			
+1000.719	AxisGrab	UnityEngine.GameObject	axis Main-View	-1460890			
+1000.719	AxisRelease	UnityEngine.GameObject	axis Main-View	-1460890			
+1001.827	FilterBubbleCollapsed	UnityEngine.GameObject	axis Price axis Size axis Main-View visualisation	-1472676	UnityEngine.GameObject	FilterBubbleButton	-1472976
+1004.104	triggerRelease	UnityEngine.GameObject	Controller (right)	42272			
+1004.105	AxisReleasedInVis	UnityEngine.GameObject	axis Main-View	-1460890			
+1004.205	AxisExited	UnityEngine.GameObject	axis Main-View	-1460890			
