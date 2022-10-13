@@ -50,6 +50,7 @@ export const readCSV = (filename, callback) => csv()
 export const readDir = (dir) => new Promise((resolve, reject) => {
   fs.readdir(dir, (err, file) =>{
     if (err) throw err;
+
     resolve(file.map((fileName) => `${dir}/${fileName}`))
   });
 });

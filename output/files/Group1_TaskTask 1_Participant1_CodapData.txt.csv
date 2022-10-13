@@ -1,0 +1,9 @@
+time,id,action,operation,attributeId,attributeName,collectionId,collectionName,contextId,contextName
+0,1,notify,create,0,null,0,null,0,null
+0,1,notify,dragstart,15,milligrams of potassium,4,cases,3,cereal
+0,1,notify,dragend,15,milligrams of potassium,4,cases,3,cereal
+0,1,notify,dragstart,19,Number of cups in one serving,4,cases,3,cereal
+0,1,notify,dragend,19,Number of cups in one serving,4,cases,3,cereal
+0,1,notify,create,0,null,0,null,0,null
+0,1,notify,dragstart,18,Weight in ounces per one serving,4,cases,3,cereal
+0,1,notify,dragend,18,Weight in ounces per one serving,4,cases,3,cereal

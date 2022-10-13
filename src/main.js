@@ -1,5 +1,7 @@
 import pkg from 'json-2-csv';
+import jpkg from 'tsv-json';
 const { json2csv } = pkg;
+const { tsv2json, json2tsv } = jpkg;
 import { processLineByLine, readDir, writeFile} from './utils/toolbox.js'
 
 function createObject(newObject){
@@ -28,11 +30,11 @@ async function* getlines(files) {
     }
 }
 
-function processFile(data) {
+function processCodapFiles(data) {
     const finalResult = []
     data.forEach((line, index) => {
         if (index > 0) {
-            const lineData = line.split('	');
+            const lineData = line.split('\t');
             const userData = JSON.parse(lineData[1]);
             const newObject = createObject({
                 tiem: lineData[0],
@@ -53,21 +55,49 @@ function processFile(data) {
     return finalResult;
 }
 
+function processData(data) {
+    const finalResult = []
+    console.log(data);
+    data.forEach((line, index) => {
+        if (index > 0) {
+            const lineData = line.split("\t");
+            finalResult.push(JSON.parse(lineData));
+        }
+    })
+
+    return finalResult;
+}
+
+
+
 async function init() {
     let dir = './files'
     if (process.argv[2]){
         dir = process.argv[2]
     }
     const files = await readDir(dir);
+    // write the codap data in here
     for await (const file of getlines(files)) {
-        const jsonFile = processFile(file.data)
-        json2csv(jsonFile, (err, csv) => {
-            if (err) {
-                console.log(err);
-                return
-            }
-            writeFile(`./output/${file.filename}_csv.csv`, csv);
-        });
+        var justName = file.filename.split("/")[2].split(".")[0];
+        const regex = /^(Group\d)_(Task\w+\s?\d?)_(Participant\d+?)_(\w+)/;
+        const [, group, task, paricipant, logName] =  regex.exec(justName) ?? [];
+        // if(logName === "CodapData") {
+        //     for await (const file of getlines(files)) {
+        //         const jsonFile = processCodapFiles(file.data)
+        //         json2csv(jsonFile, (err, csv) => {
+        //             if (err) {
+        //                 console.log(err);
+        //                 return
+        //             }
+        //             writeFile(`./output/${file.filename}.csv`, csv);
+        //         });
+        //     }
+        // }
+        if (logName !== "CodapData") {
+            const jsonFile = processData(file)
+            console.log(jsonFile);
+        }
+        
     }
 }
 
